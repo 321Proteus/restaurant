@@ -1,0 +1,4 @@
+1;Maly Burger;22.99
+2;Sredni Burger;24.99
+3;Duzy Burger;29.99
+4;Nowy Burger;26.99

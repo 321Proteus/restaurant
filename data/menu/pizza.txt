@@ -1,0 +1,5 @@
+5;Pizza Margherita;19.99
+6;Pizza Ser i pieczarki;22.99
+7;Pizza Cztery Sery;24.99
+8;Pizza Hawajska;28.99
+9;Pizza test;50.99
